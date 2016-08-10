@@ -1,0 +1,4158 @@
+{
+    "regressions": [
+        [
+            "time_table.TimeMaskedTable.time_column_slice_int", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_slice_int.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        4.032760000000001e-05, 
+                        4.656690000000001e-05
+                    ], 
+                    [
+                        8815, 
+                        8859, 
+                        4.656690000000001e-05, 
+                        0.00015372200000000002
+                    ], 
+                    [
+                        null, 
+                        13575, 
+                        4.9169200000000004e-05, 
+                        0.00013667570000000002
+                    ]
+                ], 
+                0.00013667570000000002, 
+                4.032760000000001e-05
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_set_row_subset", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_set_row_subset.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8971, 
+                        9029, 
+                        1.5319565000000006e-05, 
+                        0.00010835735000000003
+                    ], 
+                    [
+                        null, 
+                        13801, 
+                        6.976999999999998e-05, 
+                        0.00010740829999999999
+                    ]
+                ], 
+                0.00010740829999999999, 
+                1.5319565000000006e-05
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_item_get_colfirst", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_item_get_colfirst.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13575, 
+                        4.09695e-06, 
+                        4.957159999999999e-06
+                    ], 
+                    [
+                        14222, 
+                        14363, 
+                        4.957159999999999e-06, 
+                        2.7891299999999988e-05
+                    ]
+                ], 
+                2.7891299999999988e-05, 
+                4.09695e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.TabInt.time_read", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.TabInt.time_read.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17971, 
+                        0.0203539291, 
+                        0.028344152499999976
+                    ]
+                ], 
+                0.021697204650000013, 
+                0.0203539291
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_join_inner", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_join_inner.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.0059607099999999975, 
+                        0.011661050000000003
+                    ]
+                ], 
+                0.011661050000000003, 
+                0.0059607099999999975
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthTwoLineFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthTwoLineFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.6385869999999998, 
+                        1.0533564999999998
+                    ]
+                ], 
+                1.0533564999999998, 
+                0.6385869999999998
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_item_get_rowfirst", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_item_get_rowfirst.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        7.2786900000000055e-06, 
+                        3.0337399999999992e-05
+                    ]
+                ], 
+                3.0337399999999992e-05, 
+                7.2786900000000055e-06
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_mask_column", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_mask_column.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19949, 
+                        1.03930505e-05, 
+                        1.2206661575000001e-05
+                    ]
+                ], 
+                1.2435105929999998e-05, 
+                1.03930505e-05
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_set", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_column_set.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        18350, 
+                        8.454764555e-06, 
+                        1.6680595654999997e-05
+                    ]
+                ], 
+                1.6680595654999997e-05, 
+                8.454764555e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.1197169999999996, 
+                        1.5478285
+                    ]
+                ], 
+                1.5478285, 
+                1.1197169999999996
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthTwoLineString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthTwoLineString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.4530645, 
+                        0.8452130000000003
+                    ]
+                ], 
+                0.8452130000000003, 
+                0.4530645
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_set", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_set.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13801, 
+                        1.519374e-05, 
+                        0.00019510429999999997
+                    ]
+                ], 
+                0.00019510429999999997, 
+                1.519374e-05
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_creation_nocopy", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_quantity.time_quantity_creation_nocopy.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        10092, 
+                        6.84147514e-06, 
+                        7.461182710000002e-06
+                    ], 
+                    [
+                        null, 
+                        10739, 
+                        7.461182710000002e-06, 
+                        9.42694551e-06
+                    ], 
+                    [
+                        null, 
+                        11575, 
+                        9.42694551e-06, 
+                        1.0580785224999999e-05
+                    ], 
+                    [
+                        null, 
+                        17270, 
+                        1.0864987259999998e-05, 
+                        1.17294024e-05
+                    ]
+                ], 
+                1.17294024e-05, 
+                6.84147514e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.AastexInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.AastexInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.0668049999999996, 
+                        1.4676455
+                    ]
+                ], 
+                1.4676455, 
+                1.0668049999999996
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_add_row", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_add_row.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.0005554199999999732, 
+                        0.0009232090000000359
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.0009232090000000359, 
+                        0.0010234980000001226
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0010234980000001226, 
+                        0.0011519570000000368
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0011519570000000368, 
+                        0.0014596555000000455
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0014596555000000455, 
+                        0.0015193970000000334
+                    ]
+                ], 
+                0.0015193970000000334, 
+                0.0005554199999999732
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_set_all", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_set_all.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8971, 
+                        9029, 
+                        1.4666820000000001e-05, 
+                        0.00018984590000000005
+                    ], 
+                    [
+                        null, 
+                        13801, 
+                        8.553420000000005e-05, 
+                        0.00018803589999999995
+                    ]
+                ], 
+                0.00018803589999999995, 
+                1.4666820000000001e-05
+            ]
+        ], 
+        [
+            "io_ascii.time_sextractor.SExtractorSuite.time_header", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_sextractor.SExtractorSuite.time_header.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        10911, 
+                        0.4282784354999998, 
+                        0.6005068200000006
+                    ], 
+                    [
+                        null, 
+                        21056, 
+                        0.6099263819999994, 
+                        0.7414526380000002
+                    ], 
+                    [
+                        null, 
+                        21803, 
+                        0.7414526380000002, 
+                        0.7682765929999995
+                    ]
+                ], 
+                0.7682765929999995, 
+                0.4282784354999998
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthNoHeaderFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthNoHeaderFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.6207805, 
+                        1.0651105000000005
+                    ]
+                ], 
+                1.0651105000000005, 
+                0.6207805
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.LatexFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.LatexFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.5723829999999999, 
+                        0.9810149999999997
+                    ]
+                ], 
+                0.9810149999999997, 
+                0.5723829999999999
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_hstack", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_hstack.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.0039005099999999994, 
+                        0.014710094999999996
+                    ]
+                ], 
+                0.014710094999999996, 
+                0.0039005099999999994
+            ]
+        ], 
+        [
+            "time_coordinates.FrameBenchmarks.time_init_array", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_coordinates.FrameBenchmarks.time_init_array.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        10385, 
+                        10421, 
+                        0.00026851550000000005, 
+                        0.0003138950000000001
+                    ], 
+                    [
+                        11497, 
+                        11571, 
+                        0.0003138950000000001, 
+                        0.0006651659999999999
+                    ], 
+                    [
+                        null, 
+                        11999, 
+                        0.0006651659999999999, 
+                        0.001989627
+                    ]
+                ], 
+                0.0010957155000000003, 
+                0.00026851550000000005
+            ]
+        ], 
+        [
+            "io_ascii.time_core.CoreSuite.time_default_splitter_join", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_core.CoreSuite.time_default_splitter_join.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.0004265318584999999, 
+                        0.0004963286099999999
+                    ]
+                ], 
+                0.0004963286099999999, 
+                0.0004265318584999999
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_item_get_colfirst", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeTable.time_item_get_colfirst.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.4698919999999992e-06, 
+                        2.940465e-06
+                    ]
+                ], 
+                2.940465e-06, 
+                1.4698919999999992e-06
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_hstack", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_hstack.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.001311879069, 
+                        0.0018400031405
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.0018400031405, 
+                        0.00254369926
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.00247342382, 
+                        0.0029121576999999997
+                    ], 
+                    [
+                        18351, 
+                        18472, 
+                        0.0029121576999999997, 
+                        0.0030083230299999997
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0025416867899999973, 
+                        0.003130918535
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.003130918535, 
+                        0.0032454269800000013
+                    ]
+                ], 
+                0.0032454269800000013, 
+                0.001311879069
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_iter_row", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_iter_row.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15499, 
+                        0.001012711, 
+                        0.01079929
+                    ]
+                ], 
+                0.01079929, 
+                0.001012711
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_aggregate", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_aggregate.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.02888924999999999, 
+                        0.03056510000000001
+                    ], 
+                    [
+                        8815, 
+                        8859, 
+                        0.03056510000000001, 
+                        0.0689416
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        0.0689416, 
+                        0.07227275
+                    ], 
+                    [
+                        null, 
+                        13350, 
+                        0.07148560000000001, 
+                        0.08978529999999997
+                    ], 
+                    [
+                        null, 
+                        13575, 
+                        0.08978529999999997, 
+                        0.10756969999999999
+                    ]
+                ], 
+                0.10454419999999998, 
+                0.02888924999999999
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_set_row_subset_int", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_set_row_subset_int.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8971, 
+                        9029, 
+                        1.2928370000000003e-05, 
+                        0.00010150095000000003
+                    ], 
+                    [
+                        null, 
+                        13801, 
+                        6.310759999999999e-05, 
+                        0.00010228900000000008
+                    ]
+                ], 
+                0.00010228900000000008, 
+                1.2928370000000003e-05
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_array_conversion", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_quantity.time_quantity_array_conversion.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        9826, 
+                        0.00041814536999999996, 
+                        0.00044315470499999953
+                    ], 
+                    [
+                        null, 
+                        10739, 
+                        0.00044315470499999953, 
+                        0.000545896814
+                    ], 
+                    [
+                        null, 
+                        11588, 
+                        0.000545896814, 
+                        0.0006180912879999999
+                    ], 
+                    [
+                        null, 
+                        13192, 
+                        0.000570518191, 
+                        0.000823388975
+                    ], 
+                    [
+                        null, 
+                        18789, 
+                        0.0005438744235, 
+                        0.0006074124200000002
+                    ], 
+                    [
+                        null, 
+                        20025, 
+                        0.00048431472600000004, 
+                        0.0006094259599999999
+                    ]
+                ], 
+                0.0006094259599999999, 
+                0.00041814536999999996
+            ]
+        ], 
+        [
+            "time_units.time_compose_to_bases", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_units.time_compose_to_bases.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        9775, 
+                        9849, 
+                        0.0017900429999999998, 
+                        0.0022691500000000015
+                    ], 
+                    [
+                        10421, 
+                        10534, 
+                        0.0022691500000000015, 
+                        0.0026022899999999984
+                    ], 
+                    [
+                        10697, 
+                        10767, 
+                        0.0026022899999999984, 
+                        0.0029076650000000002
+                    ], 
+                    [
+                        11571, 
+                        11641, 
+                        0.0029076650000000002, 
+                        0.004721245000000001
+                    ], 
+                    [
+                        null, 
+                        14072, 
+                        0.00476133, 
+                        0.00495805
+                    ]
+                ], 
+                0.00495805, 
+                0.0017900429999999998
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_aggregate", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_aggregate.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.001294554934, 
+                        0.001688374595
+                    ], 
+                    [
+                        null, 
+                        18640, 
+                        0.001571772459, 
+                        0.0017581821435000001
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0017581821435000001, 
+                        0.0021852108050000006
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0021852108050000006, 
+                        0.002289504050000002
+                    ]
+                ], 
+                0.002289504050000002, 
+                0.001252326885
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_slice_bool", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_slice_bool.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        4.6928750000000014e-05, 
+                        5.304689999999999e-05
+                    ], 
+                    [
+                        8815, 
+                        8859, 
+                        5.304689999999999e-05, 
+                        0.00016428810000000002
+                    ], 
+                    [
+                        null, 
+                        13575, 
+                        5.606234999999999e-05, 
+                        0.00014686039999999996
+                    ]
+                ], 
+                0.00014810620000000002, 
+                4.6928750000000014e-05
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_slice_bool", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_column_slice_bool.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        5.072429999999999e-05, 
+                        8.982430000000003e-05
+                    ], 
+                    [
+                        8945, 
+                        8971, 
+                        8.982430000000003e-05, 
+                        9.308700000000001e-05
+                    ]
+                ], 
+                9.308700000000001e-05, 
+                5.072429999999999e-05
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_column_make_bool_mask", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_column_make_bool_mask.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13350, 
+                        0.00011642629999999991, 
+                        0.00041463199999999996
+                    ]
+                ], 
+                0.0003104800000000001, 
+                0.00011642629999999991
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_remove_row", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_remove_row.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0007251549999999218, 
+                        0.0008109029999998629
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0008109029999998629, 
+                        0.000939452999999979
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.000939452999999979, 
+                        0.0011698595000000367
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0011698595000000367, 
+                        0.0012182580000001941
+                    ]
+                ], 
+                0.0012182580000001941, 
+                0.0007251549999999218
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.LatexInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.LatexInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.0630295, 
+                        1.4256789999999997
+                    ]
+                ], 
+                1.4256789999999997, 
+                1.0630295
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_vstack", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeTable.time_vstack.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.0019426420000000012, 
+                        0.002708215000000001
+                    ]
+                ], 
+                0.002708215000000001, 
+                0.0019426420000000012
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.BasicInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.BasicInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19836, 
+                        0.10748470775, 
+                        0.11294375459999997
+                    ], 
+                    [
+                        null, 
+                        20042, 
+                        0.11294375459999997, 
+                        0.13202584489999997
+                    ]
+                ], 
+                0.13202584489999997, 
+                0.10748470775
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_read_rows", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_read_rows.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.14965760000000006, 
+                        0.17292300000000005
+                    ]
+                ], 
+                0.17292300000000005, 
+                0.14965760000000006
+            ]
+        ], 
+        [
+            "time_units.time_unit_compose", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_units.time_unit_compose.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        10754, 
+                        0.0005763811969999999, 
+                        0.000619589575
+                    ], 
+                    [
+                        null, 
+                        11588, 
+                        0.000619589575, 
+                        0.0009062866840000004
+                    ], 
+                    [
+                        null, 
+                        14072, 
+                        0.0008137554365, 
+                        0.0008926516549999998
+                    ], 
+                    [
+                        null, 
+                        16691, 
+                        0.0008975679839999999, 
+                        0.0010309022624999998
+                    ]
+                ], 
+                0.000993555374, 
+                0.0005446954025000001
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_group", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_group.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0021892129949999993, 
+                        0.002794908675000001
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.002760146175, 
+                        0.0030700209499999985
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0029599712750000015, 
+                        0.0033945687300000003
+                    ]
+                ], 
+                0.0034825796199999992, 
+                0.0020971515699999997
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.NoHeaderFloat.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.NoHeaderFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.32443534100000004, 
+                        0.3470019550000001
+                    ]
+                ], 
+                0.3470019550000001, 
+                0.31897180299999994
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_aggregate_noreduceat", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_aggregate_noreduceat.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.013996209999999999, 
+                        0.022723
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        0.022723, 
+                        0.023443200000000018
+                    ], 
+                    [
+                        null, 
+                        13350, 
+                        0.023443200000000018, 
+                        0.04137675
+                    ]
+                ], 
+                0.04009559999999999, 
+                0.013996209999999999
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_sort", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_sort.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0023983963849999986, 
+                        0.0024740684899999987
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0024740684899999987, 
+                        0.003455012009999998
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.003455012009999998, 
+                        0.0036725864949999996
+                    ]
+                ], 
+                0.0037306594000000005, 
+                0.0023983963849999986
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.IpacString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.IpacString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.43360199999999993, 
+                        0.8503054999999999
+                    ]
+                ], 
+                0.8503054999999999, 
+                0.43360199999999993
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_vstack", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_vstack.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.0028568649999999992, 
+                        0.013527239999999998
+                    ]
+                ], 
+                0.01275315, 
+                0.0028568649999999992
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_join_inner", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_join_inner.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        14347, 
+                        0.0018597243500000004, 
+                        0.003122419270000001
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.0025316105300000015, 
+                        0.0030807755300000005
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0030142155599999984, 
+                        0.00327491234
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.003085406275, 
+                        0.003647580749999999
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.003647580749999999, 
+                        0.0037664520300000025
+                    ]
+                ], 
+                0.0037664520300000025, 
+                0.0018597243500000004
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.CommentedHeaderString.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.CommentedHeaderString.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.1788682669, 
+                        0.19632677694999998
+                    ]
+                ], 
+                0.19699349930000007, 
+                0.1788682669
+            ]
+        ], 
+        [
+            "io_ascii.time_table.TableSuite.time_table_init_from_list", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_table.TableSuite.time_table_init_from_list.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0003403464805000001, 
+                        0.00042733175200000017
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.00042733175200000017, 
+                        0.00044933737800000007
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.00044933737800000007, 
+                        0.0005646610594999999
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0005646610594999999, 
+                        0.000588064202
+                    ]
+                ], 
+                0.000588064202, 
+                0.00033178943600000024
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_copy_table", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_copy_table.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0013140518244999994, 
+                        0.0014588843230000006
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0014588843230000006, 
+                        0.001687067583
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0015282885695000004, 
+                        0.0017185356650000001
+                    ]
+                ], 
+                0.0017530582929999995, 
+                0.0013140518244999994
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.CsvInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.CsvInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19942, 
+                        0.10799427580000001, 
+                        0.11617520929999996
+                    ]
+                ], 
+                0.11617520929999996, 
+                0.10799427580000001
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_copy_column", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_copy_column.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.0002068635000000001, 
+                        0.00023984099999999997
+                    ], 
+                    [
+                        8815, 
+                        8859, 
+                        0.00023984099999999997, 
+                        0.00026441899999999995
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        0.00026441899999999995, 
+                        0.00041425800000000003
+                    ]
+                ], 
+                0.0002929439999999999, 
+                0.0002068635000000001
+            ]
+        ], 
+        [
+            "time_coordinates.FrameBenchmarks.time_init_scalar", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_coordinates.FrameBenchmarks.time_init_scalar.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        10385, 
+                        10421, 
+                        0.00022053799999999994, 
+                        0.0002596100000000001
+                    ], 
+                    [
+                        11497, 
+                        11571, 
+                        0.0002596100000000001, 
+                        0.0004978720000000001
+                    ], 
+                    [
+                        null, 
+                        11999, 
+                        0.0004978720000000001, 
+                        0.0018315070000000007
+                    ]
+                ], 
+                0.0009876720000000002, 
+                0.00022053799999999994
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_aggregate_noreduceat", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_aggregate_noreduceat.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.029026649999999994, 
+                        0.03056620000000001
+                    ], 
+                    [
+                        8815, 
+                        8859, 
+                        0.03056620000000001, 
+                        0.0689978
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        0.0689978, 
+                        0.07244579999999996
+                    ], 
+                    [
+                        null, 
+                        13350, 
+                        0.07166204999999998, 
+                        0.08996144999999997
+                    ], 
+                    [
+                        null, 
+                        13575, 
+                        0.08996144999999997, 
+                        0.10781895
+                    ]
+                ], 
+                0.10459719999999995, 
+                0.029026649999999994
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_join_outer", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeTable.time_join_outer.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.00507533, 
+                        0.013594465
+                    ]
+                ], 
+                0.013594465, 
+                0.00507533
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_join_outer", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_join_outer.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.006516160000000002, 
+                        0.015084270000000004
+                    ]
+                ], 
+                0.015084270000000004, 
+                0.006516160000000002
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthTwoLineInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthTwoLineInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.1170210000000003, 
+                        1.5098060000000002
+                    ]
+                ], 
+                1.5098060000000002, 
+                1.1170210000000003
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_view", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_quantity.time_quantity_view.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17270, 
+                        2.0467548849999993e-06, 
+                        2.3438367899999993e-06
+                    ], 
+                    [
+                        null, 
+                        21932, 
+                        2.3438367899999993e-06, 
+                        3.2155537599999985e-06
+                    ]
+                ], 
+                3.2155537599999985e-06, 
+                2.0467548849999993e-06
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_init_from_np_array_no_copy", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_init_from_np_array_no_copy.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.00023216221299999983, 
+                        0.0003208802620000001
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.000327830225, 
+                        0.0003729746789999999
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0003729746789999999, 
+                        0.0005565770855
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0005565770855, 
+                        0.0005927731169999996
+                    ]
+                ], 
+                0.0005927731169999996, 
+                0.00023216221299999983
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_add_column", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_add_column.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.000150008999999951, 
+                        0.0002657569999999776
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0002657569999999776, 
+                        0.0003467080000001399
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0002834740000000613, 
+                        0.00033754900000004806
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.00033754900000004806, 
+                        0.00034759599999989454
+                    ]
+                ], 
+                0.00034759599999989454, 
+                0.000150008999999951
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_init_scalar", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_quantity.time_quantity_init_scalar.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        6412, 
+                        6485, 
+                        4.5884e-05, 
+                        6.93044e-05
+                    ], 
+                    [
+                        6990, 
+                        7068, 
+                        6.93044e-05, 
+                        7.331269999999999e-05
+                    ], 
+                    [
+                        7946, 
+                        8008, 
+                        7.331269999999999e-05, 
+                        0.00012007830000000003
+                    ], 
+                    [
+                        9775, 
+                        9849, 
+                        7.273679999999998e-05, 
+                        7.979669999999999e-05
+                    ], 
+                    [
+                        11571, 
+                        11641, 
+                        7.979669999999999e-05, 
+                        9.280290000000005e-05
+                    ]
+                ], 
+                9.280290000000005e-05, 
+                4.5884e-05
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_add_column", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_add_column.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0006078759999998962, 
+                        0.0007237424999999575
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0007237424999999575, 
+                        0.0009525310000000342
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0007478929999998885, 
+                        0.0008005140000000299
+                    ]
+                ], 
+                0.0008093410000000745, 
+                0.0006078759999998962
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.BasicString.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.BasicString.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.17908585820000003, 
+                        0.19608613820000004
+                    ]
+                ], 
+                0.196886402, 
+                0.17908585820000003
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_group", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_group.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.011885620059999998, 
+                        0.012462929345
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.012746287145, 
+                        0.01336057458
+                    ]
+                ], 
+                0.013290917835000002, 
+                0.011885620059999998
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthNoHeaderInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthNoHeaderInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.1187800000000006, 
+                        1.5089614999999998
+                    ]
+                ], 
+                1.5089614999999998, 
+                1.1187800000000006
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.4481670000000002, 
+                        0.8510019999999998
+                    ]
+                ], 
+                0.8510019999999998, 
+                0.4481670000000002
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.IpacFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.IpacFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.6340319999999995, 
+                        1.0599439999999998
+                    ]
+                ], 
+                1.0599439999999998, 
+                0.6340319999999995
+            ]
+        ], 
+        [
+            "io_ascii.time_table.TableSuite.mem_table_outputter", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_table.TableSuite.mem_table_outputter.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        4616.0, 
+                        6752.0
+                    ]
+                ], 
+                5384.0, 
+                4464.0
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.CommentedHeaderFloat.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.CommentedHeaderFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.3252552070000001, 
+                        0.34676604599999994
+                    ]
+                ], 
+                0.34676604599999994, 
+                0.3194741879999998
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_table_slice_bool", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_table_slice_bool.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.000735309104, 
+                        0.0009377066165000001
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0008554231419999998, 
+                        0.000990020098
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.000990020098, 
+                        0.0012121681604999996
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0012121681604999996, 
+                        0.0012594493570000003
+                    ]
+                ], 
+                0.0012594493570000003, 
+                0.000707819869
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_row_get", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_row_get.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15499, 
+                        1.8892219999999983e-06, 
+                        1.3128799999999999e-05
+                    ]
+                ], 
+                1.3128799999999999e-05, 
+                1.8892219999999983e-06
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_remove_row", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_remove_row.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        14222, 
+                        0.0003497359999999894, 
+                        0.00036867799999995565
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.00036867799999995565, 
+                        0.00047235649999999296
+                    ], 
+                    [
+                        null, 
+                        17795, 
+                        0.0004482599999999781, 
+                        0.0004784789999998651
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0004784789999998651, 
+                        0.0005800730000000698
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0005800730000000698, 
+                        0.0006987449999997786
+                    ], 
+                    [
+                        null, 
+                        20928, 
+                        0.0006987449999997786, 
+                        0.0007402954999999878
+                    ]
+                ], 
+                0.0007402954999999878, 
+                0.0003497359999999894
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_copy_column", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_copy_column.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19949, 
+                        9.119884469999997e-05, 
+                        0.0001302827262
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0001302827262, 
+                        0.0001395159306
+                    ]
+                ], 
+                0.0001395159306, 
+                9.119884469999997e-05
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_set_row_subset", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_column_set_row_subset.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13464, 
+                        7.012830870000002e-06, 
+                        8.59410738e-06
+                    ], 
+                    [
+                        null, 
+                        13801, 
+                        8.59410738e-06, 
+                        9.10470683e-06
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        9.10470683e-06, 
+                        1.7132648085000004e-05
+                    ]
+                ], 
+                1.6778822840000002e-05, 
+                7.012830870000002e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ipac.IPACSuite.time_data_str_vals", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ipac.IPACSuite.time_data_str_vals.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.3251514999999999, 
+                        0.7238745000000001
+                    ]
+                ], 
+                0.7238745000000001, 
+                0.3251514999999999
+            ]
+        ], 
+        [
+            "time_coordinates.time_latitude", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_coordinates.time_latitude.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        10385, 
+                        10421, 
+                        5.9740950000000006e-05, 
+                        7.51839e-05
+                    ]
+                ], 
+                7.7492e-05, 
+                5.9740950000000006e-05
+            ]
+        ], 
+        [
+            "time_units.time_unit_parse", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_units.time_unit_parse.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        7946, 
+                        8008, 
+                        0.00031590200000000007, 
+                        0.0003874740000000001
+                    ]
+                ], 
+                0.00047974899999999996, 
+                0.00031590200000000007
+            ]
+        ], 
+        [
+            "time_units.time_very_simple_unit_parse", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_units.time_very_simple_unit_parse.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        7946, 
+                        8008, 
+                        1.0071189999999999e-05, 
+                        1.0688400000000001e-05
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        1.144402e-05, 
+                        1.3873370000000005e-05
+                    ]
+                ], 
+                1.2919679999999998e-05, 
+                1.0071189999999999e-05
+            ]
+        ], 
+        [
+            "time_coordinates.SkyCoordBenchmarks.time_repr", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_coordinates.SkyCoordBenchmarks.time_repr.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15662, 
+                        0.17926850000000005, 
+                        0.717544
+                    ]
+                ], 
+                0.717544, 
+                0.17926850000000005
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.NoHeaderInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.NoHeaderInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.11273228960000004, 
+                        0.1319784471
+                    ]
+                ], 
+                0.1319784471, 
+                0.1074726164
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.AastexString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.AastexString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.38817499999999994, 
+                        0.7946775
+                    ]
+                ], 
+                0.7946775, 
+                0.38817499999999994
+            ]
+        ], 
+        [
+            "io_ascii.time_table.TableSuite.mem_table_init", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_table.TableSuite.mem_table_init.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        4616.0, 
+                        6752.0
+                    ]
+                ], 
+                5384.0, 
+                4464.0
+            ]
+        ], 
+        [
+            "io_ascii.time_table.TableSuite.time_table_outputter", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_table.TableSuite.time_table_outputter.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.0004661912469999998, 
+                        0.0004847015990000001
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.0004847015990000001, 
+                        0.0005717521240000001
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0005717521240000001, 
+                        0.0005993256869999999
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0005993256869999999, 
+                        0.0007118618890000002
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0007118618890000002, 
+                        0.0007366169510000003
+                    ]
+                ], 
+                0.0007458292865000001, 
+                0.0004661912469999998
+            ]
+        ], 
+        [
+            "time_units.mem_unit", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_units.mem_unit.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8183, 
+                        8228, 
+                        344.0, 
+                        728.0
+                    ]
+                ], 
+                728.0, 
+                344.0
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_remove_rows", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_remove_rows.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.00037955550000001725, 
+                        0.00048180300000000287
+                    ], 
+                    [
+                        null, 
+                        17787, 
+                        0.0004594960000000592, 
+                        0.0004885709999999932
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0004885709999999932, 
+                        0.0005880729999998557
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0005880729999998557, 
+                        0.0007071610000000117
+                    ], 
+                    [
+                        null, 
+                        20871, 
+                        0.0007071610000000117, 
+                        0.0007514650000001177
+                    ]
+                ], 
+                0.0007514650000001177, 
+                0.00037955550000001725
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_init_from_np_array_copy", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_init_from_np_array_copy.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.00041918964000000003, 
+                        0.000446248459
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.000446248459, 
+                        0.000582715305
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.000582715305, 
+                        0.0006682191669999997
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0006682191669999997, 
+                        0.000719287832
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0006280532439999999, 
+                        0.0008154777540000002
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0008154777540000002, 
+                        0.0008533812270000003
+                    ]
+                ], 
+                0.0008533812270000003, 
+                0.00041918964000000003
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_init_array", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_quantity.time_quantity_init_array.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        6412, 
+                        6485, 
+                        0.00019115035000000008, 
+                        0.00021415249999999996
+                    ], 
+                    [
+                        7946, 
+                        8008, 
+                        0.00021415249999999996, 
+                        0.00028538300000000016
+                    ], 
+                    [
+                        8887, 
+                        8919, 
+                        0.00023107499999999997, 
+                        0.00029481
+                    ], 
+                    [
+                        11571, 
+                        11641, 
+                        0.0003024500000000001, 
+                        0.0003156760000000001
+                    ]
+                ], 
+                0.0003156760000000001, 
+                0.00019115035000000008
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_times_quantity", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_quantity.time_quantity_times_quantity.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        9814, 
+                        0.0001302593881, 
+                        0.0001379532206
+                    ], 
+                    [
+                        null, 
+                        10739, 
+                        0.00013964423200000001, 
+                        0.00014358622900000002
+                    ], 
+                    [
+                        null, 
+                        11588, 
+                        0.00014358622900000002, 
+                        0.00015652196489999998
+                    ]
+                ], 
+                0.00015763667525000002, 
+                0.0001302593881
+            ]
+        ], 
+        [
+            "time_coordinates.FrameBenchmarks.time_init_nodata", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_coordinates.FrameBenchmarks.time_init_nodata.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        11999, 
+                        1.0241269999999998e-05, 
+                        0.0012595079999999995
+                    ], 
+                    [
+                        null, 
+                        13310, 
+                        0.00048712200000000026, 
+                        0.0005056339999999997
+                    ]
+                ], 
+                0.0005056339999999997, 
+                1.0241269999999998e-05
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_times_unit", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_quantity.time_quantity_times_unit.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        11588, 
+                        0.00010925925040000002, 
+                        0.00012315642314999998
+                    ], 
+                    [
+                        null, 
+                        14075, 
+                        0.00012315642314999998, 
+                        0.00012947160590000002
+                    ]
+                ], 
+                0.00013044336999999998, 
+                0.00010925925040000002
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_add_row", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeMaskedTable.time_add_row.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.0024575000000000014, 
+                        0.002840499999999996
+                    ], 
+                    [
+                        8971, 
+                        9029, 
+                        0.002840499999999996, 
+                        0.00342600000000004
+                    ], 
+                    [
+                        null, 
+                        13801, 
+                        0.002852999999999939, 
+                        0.00732199999999994
+                    ]
+                ], 
+                0.00732199999999994, 
+                0.0024575000000000014
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_set_row_subset_int", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_column_set_row_subset_int.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13464, 
+                        2.7305813199999985e-06, 
+                        4.162538990000002e-06
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        4.162538990000002e-06, 
+                        1.1448104669999999e-05
+                    ]
+                ], 
+                1.1448104669999999e-05, 
+                2.7305813199999985e-06
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_iter_row", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_iter_row.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15499, 
+                        0.001015441, 
+                        0.010882875
+                    ]
+                ], 
+                0.010882875, 
+                0.001015441
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_init_from_np_array_no_copy", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_init_from_np_array_no_copy.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.00023207025749999997, 
+                        0.0003220363629999999
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0003220363629999999, 
+                        0.000328325768
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.000328325768, 
+                        0.0003734758110000005
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0003734758110000005, 
+                        0.0005561302664999998
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0005561302664999998, 
+                        0.0005925905060000001
+                    ]
+                ], 
+                0.0005925905060000001, 
+                0.000226363205
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthNoHeaderString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthNoHeaderString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.447387, 
+                        0.8442689999999999
+                    ]
+                ], 
+                0.8442689999999999, 
+                0.447387
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.AastexFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.AastexFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.5496709999999999, 
+                        0.9925689999999998
+                    ]
+                ], 
+                0.9925689999999998, 
+                0.5496709999999999
+            ]
+        ], 
+        [
+            "time_cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Ode0=0.65, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2/machine-ant/nomkl/numpy-1.8/os-Linux 3.4.11-2.16-desktop/python-2.7/ram-32963152/scipy/time_cosmology.LambdaCDMBenchmarks.time_age.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.8", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "2.7", 
+                "ram": "32963152"
+            }, 
+            0, 
+            [
+                [
+                    [
+                        null, 
+                        22034, 
+                        0.0332767504, 
+                        0.03838213549999999
+                    ]
+                ], 
+                0.03838213549999999, 
+                0.0332767504
+            ]
+        ], 
+        [
+            "time_cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.6, Ode0=0.7, Tcmb0=2.7 K, Neff=4, m_nu=[ 0.  0.  0.  0.] eV, Ob0=None))", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2/machine-ant/nomkl/numpy-1.8/os-Linux 3.4.11-2.16-desktop/python-2.7/ram-32963152/scipy/time_cosmology.LambdaCDMBenchmarks.time_age.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.8", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "2.7", 
+                "ram": "32963152"
+            }, 
+            1, 
+            [
+                [
+                    [
+                        null, 
+                        22034, 
+                        0.0333038135, 
+                        0.038608961399999996
+                    ]
+                ], 
+                0.038608961399999996, 
+                0.0333038135
+            ]
+        ], 
+        [
+            "time_cosmology.LambdaCDMBenchmarks.time_age(LambdaCDM(H0=65 km / (Mpc s), Om0=0.4, Ode0=0.2, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2/machine-ant/nomkl/numpy-1.8/os-Linux 3.4.11-2.16-desktop/python-2.7/ram-32963152/scipy/time_cosmology.LambdaCDMBenchmarks.time_age.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.8", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "2.7", 
+                "ram": "32963152"
+            }, 
+            2, 
+            [
+                [
+                    [
+                        null, 
+                        22034, 
+                        0.03340456489999999, 
+                        0.0384256149
+                    ]
+                ], 
+                0.0384256149, 
+                0.03340456489999999
+            ]
+        ], 
+        [
+            "time_cosmology.LambdaCDMBenchmarks.time_age(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.  0.  0.] eV, Ob0=None))", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2/machine-ant/nomkl/numpy-1.8/os-Linux 3.4.11-2.16-desktop/python-2.7/ram-32963152/scipy/time_cosmology.LambdaCDMBenchmarks.time_age.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.8", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "2.7", 
+                "ram": "32963152"
+            }, 
+            3, 
+            [
+                [
+                    [
+                        null, 
+                        22034, 
+                        0.037621774699999985, 
+                        0.04135770520000002
+                    ]
+                ], 
+                0.04135770520000002, 
+                0.037621774699999985
+            ]
+        ], 
+        [
+            "time_cosmology.LambdaCDMBenchmarks.time_age(FlatLambdaCDM(H0=65 km / (Mpc s), Om0=0.25, Tcmb0=2.7 K, Neff=3.04, m_nu=[ 0.05  0.1   0.15] eV, Ob0=None))", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2/machine-ant/nomkl/numpy-1.8/os-Linux 3.4.11-2.16-desktop/python-2.7/ram-32963152/scipy/time_cosmology.LambdaCDMBenchmarks.time_age.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.8", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "2.7", 
+                "ram": "32963152"
+            }, 
+            4, 
+            [
+                [
+                    [
+                        null, 
+                        22034, 
+                        0.06985110650000001, 
+                        0.0740016331
+                    ]
+                ], 
+                0.0740016331, 
+                0.06985110650000001
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_item_get_rowfirst", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeTable.time_item_get_rowfirst.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15499, 
+                        5.080419999999997e-06, 
+                        1.665643e-05
+                    ]
+                ], 
+                1.665643e-05, 
+                5.080419999999997e-06
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_remove_rows", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_remove_rows.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0007448420000000233, 
+                        0.0008437314999999446
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0008281260000000401, 
+                        0.000959377000000039
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.000959377000000039, 
+                        0.0011897269999998628
+                    ], 
+                    [
+                        null, 
+                        20765, 
+                        0.0011897269999998628, 
+                        0.0012398429999997962
+                    ]
+                ], 
+                0.0012398429999997962, 
+                0.0007448420000000233
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_multi_column_get", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_multi_column_get.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.00032594653799999994, 
+                        0.00040148792899999993
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.00040148792899999993, 
+                        0.00047797647899999984
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.00047797647899999984, 
+                        0.0005020165540000004
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.00041766099499999986, 
+                        0.0004953793335000001
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0004953793335000001, 
+                        0.0005170189939999999
+                    ]
+                ], 
+                0.0005170189939999999, 
+                0.0003183633440000002
+            ]
+        ], 
+        [
+            "time_quantity.time_quantity_scalar_conversion", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_quantity.time_quantity_scalar_conversion.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        6412, 
+                        6485, 
+                        0.00012915944999999994, 
+                        0.00015385215
+                    ], 
+                    [
+                        6563, 
+                        6616, 
+                        0.00015385215, 
+                        0.0002001857000000001
+                    ], 
+                    [
+                        9775, 
+                        9849, 
+                        0.00013244180000000002, 
+                        0.00015042049999999997
+                    ], 
+                    [
+                        10697, 
+                        10767, 
+                        0.00015042049999999997, 
+                        0.00015743760000000006
+                    ], 
+                    [
+                        11571, 
+                        11641, 
+                        0.00015743760000000006, 
+                        0.00021727499999999987
+                    ]
+                ], 
+                0.00019196515000000005, 
+                0.00012915944999999994
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_sort", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_sort.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.000746212522, 
+                        0.0008083854220000002
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0008169835410000001, 
+                        0.0014310979540000002
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0014310979540000002, 
+                        0.0016452295095000001
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0016452295095000001, 
+                        0.001700190919
+                    ]
+                ], 
+                0.001700190919, 
+                0.000746212522
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_read_rows", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_read_rows.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13801, 
+                        0.01489998, 
+                        0.09768769999999996
+                    ]
+                ], 
+                0.09768769999999996, 
+                0.01489998
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_copy_table", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_copy_table.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0006013161209999996, 
+                        0.0007375671880000001
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0007375671880000001, 
+                        0.0008192292129999999
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0008192292129999999, 
+                        0.0008648985520000005
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0007796803455000001, 
+                        0.0009753525075
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0009753525075, 
+                        0.001013444877
+                    ]
+                ], 
+                0.001013444877, 
+                0.0006013161209999996
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_set_all", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_column_set_all.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        18350, 
+                        4.489008760000001e-06, 
+                        1.2218150115e-05
+                    ]
+                ], 
+                1.2218150115e-05, 
+                4.489008760000001e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.IpacInt.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.IpacInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        1.1128780000000003, 
+                        1.5153705
+                    ]
+                ], 
+                1.5153705, 
+                1.1128780000000003
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_table_slice_int", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeTable.time_table_slice_int.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.00030203377600000004, 
+                        0.00032265887550000016
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.00032265887550000016, 
+                        0.0005174677574999998
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0004337607370000001, 
+                        0.000557360568
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.000557360568, 
+                        0.000667626619
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.000667626619, 
+                        0.0006892118160000002
+                    ]
+                ], 
+                0.0006892118160000002, 
+                0.0002908146010000001
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_make_bool_mask", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_column_make_bool_mask.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        13350, 
+                        1.156771e-05, 
+                        0.00019280169999999998
+                    ]
+                ], 
+                0.00010240719999999994, 
+                1.156771e-05
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_column_slice_int", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_column_slice_int.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        4.78779e-05, 
+                        8.654879999999996e-05
+                    ], 
+                    [
+                        8887, 
+                        8919, 
+                        8.654879999999996e-05, 
+                        8.993860000000002e-05
+                    ]
+                ], 
+                8.993860000000002e-05, 
+                4.78779e-05
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_init_from_np_array_copy", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_init_from_np_array_copy.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15301, 
+                        0.0004192622479999999, 
+                        0.0004458593435
+                    ], 
+                    [
+                        null, 
+                        17044, 
+                        0.0004458593435, 
+                        0.0005816706555
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0005816706555, 
+                        0.0006664549869999999
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.0006664549869999999, 
+                        0.0007194888569999999
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0006275892914999999, 
+                        0.0008144901040000004
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0008144901040000004, 
+                        0.0008534370039999998
+                    ]
+                ], 
+                0.0008534370039999998, 
+                0.0004192622479999999
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.TabInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.TabInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19943, 
+                        0.10748073615, 
+                        0.11561820839999998
+                    ]
+                ], 
+                0.11561820839999998, 
+                0.10748073615
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_row_get", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/time_table.TimeTable.time_row_get.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15499, 
+                        1.8681739999999999e-06, 
+                        1.3154950000000004e-05
+                    ]
+                ], 
+                1.3154950000000004e-05, 
+                1.8681739999999999e-06
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.FixedWidthFloat.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.FixedWidthFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.6188010000000002, 
+                        1.0659319999999997
+                    ]
+                ], 
+                1.0659319999999997, 
+                0.6188010000000002
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_table_slice_int", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_table_slice_int.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0006254117015, 
+                        0.0008242529135000001
+                    ], 
+                    [
+                        null, 
+                        18350, 
+                        0.000749252758, 
+                        0.0008788285919999996
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0008788285919999996, 
+                        0.0011003456730000003
+                    ], 
+                    [
+                        null, 
+                        20865, 
+                        0.0011003456730000003, 
+                        0.001145281539
+                    ]
+                ], 
+                0.001145281539, 
+                0.0006002796959999998
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.NoHeaderFloat.time_read", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.NoHeaderFloat.time_read.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15869, 
+                        0.04629715000000001, 
+                        0.04865489999999999
+                    ]
+                ], 
+                0.04865489999999999, 
+                0.04629715000000001
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.CommentedHeaderInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.CommentedHeaderInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19836, 
+                        0.10744374360000002, 
+                        0.11292168349999998
+                    ], 
+                    [
+                        null, 
+                        20042, 
+                        0.11292168349999998, 
+                        0.13203272249999998
+                    ]
+                ], 
+                0.13203272249999998, 
+                0.10744374360000002
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.LatexString.time_write", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.LatexString.time_write.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        14222, 
+                        14363, 
+                        0.3930349999999999, 
+                        0.7859849999999995
+                    ]
+                ], 
+                0.7859849999999995, 
+                0.3930349999999999
+            ]
+        ], 
+        [
+            "time_table.TimeTable.time_table_slice_bool", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/time_table.TimeTable.time_table_slice_bool.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        8333, 
+                        8362, 
+                        0.000522916, 
+                        0.0006882079999999999
+                    ]
+                ], 
+                0.0006479220000000001, 
+                0.000522916
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.NoHeaderString.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.NoHeaderString.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.17939522099999997, 
+                        0.19575312299999997
+                    ]
+                ], 
+                0.19671398560000003, 
+                0.17939522099999997
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.BasicFloat.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.BasicFloat.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        20042, 
+                        0.32510288399999965, 
+                        0.3467633160000001
+                    ]
+                ], 
+                0.3467633160000001, 
+                0.31912237200000004
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.CsvFloat.time_read", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.CsvFloat.time_read.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        15603, 
+                        0.042712249999999986, 
+                        0.046350900000000014
+                    ]
+                ], 
+                0.04786839999999999, 
+                0.042712249999999986
+            ]
+        ], 
+        [
+            "time_table.TimeMaskedTable.time_multi_column_get", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/time_table.TimeMaskedTable.time_multi_column_get.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        17044, 
+                        0.0006148003539999999, 
+                        0.0006934317005000004
+                    ], 
+                    [
+                        null, 
+                        17335, 
+                        0.0006934317005000004, 
+                        0.0009172618629999997
+                    ], 
+                    [
+                        null, 
+                        19949, 
+                        0.0007209848140000004, 
+                        0.0007969467199999997
+                    ]
+                ], 
+                0.000812463475, 
+                0.0006148003539999999
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.BasicFloat.time_read", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-3.4/ram-8GB/scipy-null/io_ascii.time_ascii.BasicFloat.time_read.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "3.4", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        15869, 
+                        16162, 
+                        0.04630460000000001, 
+                        0.04866375000000002
+                    ]
+                ], 
+                0.04866375000000002, 
+                0.04630460000000001
+            ]
+        ], 
+        [
+            "io_ascii.time_ascii.RdbInt.time_write", 
+            "graphs/Cython-0.24/arch-x86_64/branch-master/cpu-Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz/jinja2-2.8/machine-ant/nomkl/numpy-1.9/os-Linux 3.4.11-2.16-desktop/python-3.5/ram-32963152/scipy-0.17/io_ascii.time_ascii.RdbInt.time_write.json", 
+            {
+                "cpu": "Intel(R) Xeon(R) CPU E5-2640 0 @ 2.50GHz", 
+                "machine": "ant", 
+                "numpy": "1.9", 
+                "os": "Linux 3.4.11-2.16-desktop", 
+                "python": "3.5", 
+                "ram": "32963152"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        null, 
+                        19943, 
+                        0.10756987634999998, 
+                        0.11565127715000004
+                    ]
+                ], 
+                0.11565127715000004, 
+                0.10756987634999998
+            ]
+        ], 
+        [
+            "io_ascii.time_ipac.IPACSuite.time_header_str_vals", 
+            "graphs/Cython/arch-x86_64/branch-master/cpu-Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)/jinja2-null/machine-racoon/nomkl-null/numpy-1.8/os-Mac OS-X 10.9 Mavericks/python-2.7/ram-8GB/scipy-null/io_ascii.time_ipac.IPACSuite.time_header_str_vals.json", 
+            {
+                "cpu": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz (8 cores)", 
+                "machine": "racoon", 
+                "numpy": "1.8", 
+                "os": "Mac OS-X 10.9 Mavericks", 
+                "python": "2.7", 
+                "ram": "8GB"
+            }, 
+            null, 
+            [
+                [
+                    [
+                        7620, 
+                        7745, 
+                        0.00020897999999999994, 
+                        0.00023958850000000017
+                    ], 
+                    [
+                        8362, 
+                        8412, 
+                        0.00023958850000000017, 
+                        0.000256444
+                    ]
+                ], 
+                0.00026336800000000004, 
+                0.00020897999999999994
+            ]
+        ]
+    ]
+}
